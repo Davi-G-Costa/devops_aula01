@@ -1,0 +1,12 @@
+A 1° vantagem é que pode se usar patch('é um tipo de remendo), no código caso precise modificar uma linha de código
+não precisa enviar o código todo, mas sim só a parte que foi alterado, melhorando a a velocidade de envio do arquivo e também não precisa manter dois arquivos
+economizando espaço de disco e banda de rede.
+A 2° vantagem que trabalhos que levavam horas, dias foi reduzido para minutos, com uma menor taxa de erro
+O repositório Git é um banco de dados de objetos
+A 3° vantagem é que quando você clona um objeto do github para sua máquina, os diretórios e os aquivos do projeto que você editou
+são só um espelho do que está dentro do diretório.
+O banco de dados de verdades são estes objects a estrutura de diretórios e arquivos pode ser inteira recriada apartir destes objectos.
+É uma das razões dos git são mais eficientes para fazer comparações pois ele rastreia primeiro e depois os metadados e a estrutura de dados são abertos e simples de trabalhar
+A 4° vangatem é que o git pode voltar no 'passado' e comparar as versões do código original e as versões modificadas e ele mesmo escolhe a versão mais adequada automaticamente
+e também é mais dificil de ter conflitos nos merge.
+A 5° vantagem que o git tem sistemas distribuidos
